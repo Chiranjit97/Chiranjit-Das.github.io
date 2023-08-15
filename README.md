@@ -6,3 +6,5 @@ I am currently working as PhD Research Fellow with Prof. Ravi Kumar Kunchal in t
 # Education
 Atmospheric Science, NIT Rourkela
 
+
+
