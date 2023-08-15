@@ -5,7 +5,7 @@ I am currently working as PhD Research Fellow with Prof. Ravi Kumar Kunchal in t
 
 # Education
 
-M.Sc. (Atmospheric Science), NIT Rourkela, India
+M.Sc. (Atmospheric Science), NIT Rourkela, India \n
 B.Sc. (Honours in Physics) Barasat Goverment College, Barasat, India 
 
 
